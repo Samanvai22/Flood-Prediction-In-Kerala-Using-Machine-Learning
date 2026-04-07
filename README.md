@@ -11,21 +11,15 @@ This project focuses on predicting floods in Kerala by analyzing historical rain
 * **Automated Analysis**: Implements a machine learning pipeline from data cleaning to predictive modeling.
 
 ## Technical Stack
-* [cite_start]**Language**: Python 3.x [cite: 72]
+* **Language**: Python 3.x 
 * **Libraries**: 
-    * [cite_start]`NumPy` & `Pandas` for data manipulation [cite: 73]
-    * [cite_start]`Seaborn` & `Matplotlib` for data visualization [cite: 73]
-    * [cite_start]`Scikit-Learn` for model implementation [cite: 568]
-* [cite_start]**Environment**: Jupyter Notebook / Google Colab [cite: 71, 74]
+    * `NumPy` & `Pandas` for data manipulation 
+    * `Seaborn` & `Matplotlib` for data visualization 
+    * `Scikit-Learn` for model implementation 
+* **Environment**: Jupyter Notebook / Google Colab 
 
 ## Project Workflow
-1. [cite_start]**Data Pre-processing**: Cleaning and normalizing the rainfall dataset[cite: 654].
+1. **Data Pre-processing**: Cleaning and normalizing the rainfall dataset.
 2. **Exploratory Data Analysis (EDA)**: Finding correlations between specific months and flood history.
-3. [cite_start]**Model Selection**: Comparing algorithms like Logistic Regression and Random Forest[cite: 433, 809].
-4. [cite_start]**Evaluation**: Assessing the model using Accuracy, Precision, and Recall scores[cite: 816].
-
-## Contributors
-* **K. [cite_start]Sumaa** (19P61A0488) [cite: 6, 138]
-* **G. [cite_start]Samanvai** (19P61A0472) [cite: 6, 139]
-* **G. [cite_start]Sampath** (19P61A0474) [cite: 6, 140]
-* **Guided by**: Dr. A. Adi Narayana [cite: 142]
+3. **Model Selection**: Comparing algorithms like Logistic Regression and Random Forest.
+4. **Evaluation**: Assessing the model using Accuracy, Precision, and Recall scores.
