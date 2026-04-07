@@ -1,1 +1,2 @@
 # Flood-Prediction-In-Kerala-Using-Machine-Learning
+Flood Prediction in Kerala using Machine Learning is a data-driven project designed to predict the likelihood of floods in the state of Kerala based on historical rainfall patterns. Utilizing Python and supervised learning algorithms, this project analyzes environmental data to provide early warnings, aiming to mitigate the devastating impact of seasonal flooding.
